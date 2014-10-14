@@ -24,7 +24,7 @@ public class Paciente extends Usuario {
 	public String getRg() {
 		return rg;
 	}
-	public void setRg(String rg) {
+	public void setRg(String rg){
 		this.rg = rg;
 	}
 	public String getIdade() {
